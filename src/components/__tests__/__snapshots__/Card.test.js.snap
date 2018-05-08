@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+    }
+  }
+>
+  <Image
+    source={1}
+    style={
+      Object {
+        "height": 667,
+      }
+    }
+  />
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "padding": 20,
+        "textAlign": "center",
+      }
+    }
+  >
+    hello
+  </Text>
+</View>
+`;
