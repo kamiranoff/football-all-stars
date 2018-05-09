@@ -1,3 +1,23 @@
+# Football All Stars
+
+Hi this is a basic card swipe implementation.
+
+I have used the latest version of <b>Expo</b>, and used `create-react-native-app` cli to bootstrap the App.
+
+I would not recommand it for a production App but it makes very easy to boostrap prototypes.
+
+I have not much spend much time on design and reuse most of the code from a older project I found on my github.
+
+I have only tested on an iPhoneX simulator and my iPhone6s. I have not tested it on android, but I believe it should also work.
+
+To test on a real device you will need the Expo App
+
+---
+---
+---
+---
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
