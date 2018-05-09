@@ -5,8 +5,8 @@ import { SCREEN_HEIGHT } from '../constants';
 
 const styles = StyleSheet.create({
   container: { alignItems: 'center' },
-  image: { height: SCREEN_HEIGHT / 2 },
-  text: { backgroundColor: 'white', padding: 20, textAlign: 'center' }
+  image: { height: SCREEN_HEIGHT * 0.7 },
+  text: { backgroundColor: 'white', padding: 20, textAlign: 'center', width: '90%' }
 });
 
 const CardComponent = ({ item }) => (
